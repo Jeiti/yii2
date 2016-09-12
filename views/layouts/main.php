@@ -76,3 +76,6 @@ AppAsset::register($this);
 </body>
 </html>
 <?php $this->endPage() ?>
+
+<?php
+//TODO: Вставить верстку Barus
